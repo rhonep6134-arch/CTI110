@@ -1,0 +1,9 @@
+# Phillip Rhone
+# 2/22/2026
+# P1Lab1.py
+# input and print
+
+first_name = input("Eneter your first name: ")
+last_name = input("Enter your last name: ")
+
+print("Hello,",first_name,last_name + "!","Welcome to CTI-110")
